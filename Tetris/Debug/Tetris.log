@@ -1,0 +1,14 @@
+﻿  Draw.cpp
+  Grid.cpp
+  Main.cpp
+C:\Users\Ewelina\Desktop\pk\EHwtorek1330\Tetris\Playing.h(18,12): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  Playing.cpp
+C:\Users\Ewelina\Desktop\pk\EHwtorek1330\Tetris\Playing.h(18,12): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Ewelina\Desktop\pk\EHwtorek1330\Tetris\Playing.cpp(97,56): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Ewelina\Desktop\pk\EHwtorek1330\Tetris\Playing.cpp(97,40): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Title.cpp
+  Title_picture.cpp
+C:\Users\Ewelina\Desktop\pk\EHwtorek1330\Tetris\Title_picture.cpp(110,31): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\Ewelina\Desktop\pk\EHwtorek1330\Tetris\Title_picture.cpp(110,23): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Generowanie kodu...
+  Tetris.vcxproj -> C:\Users\Ewelina\Desktop\pk\EHwtorek1330\Tetris\Debug\Tetris.exe
